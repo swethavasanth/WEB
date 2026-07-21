@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Swe's Fashion Boutique</title>
+</head>
+<body>
+    <div style="text-align:center;">
+    <h1>Swe's Fashion Boutique</h1>
+    <img src="https://thevou.com/wp-content/uploads/2023/11/What-is-Fashion.jpg"
+         alt="Fashion Image"
+         width="200">
+    <h3>
+        Welcome to Swe's Fashion Boutique. We offer trendy and stylish clothing,
+        footwear, and accessories for women.
+    </h3>
+    </div>
+    <div style="display:flex; justify-content:space-around;">
+    <div>
+        <h2>Dresses</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FR3r0PWlIKmsdAXtAqOL8yRrqFkKXvFdz4H9G7QYXw&s=10"
+             alt="Dress"
+             width="150">
+        <h2>Jeans</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu6HFc0Z6dH-8VXnvDJBNUXhYBV8iBxL0yMreteX0A5Q&s=10"
+             alt="Jeans"
+             width="150">
+        <h2>Accessories</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjuE0SeLCX54xTWx1yabfNV2XC7sM3bbSpJdme5BISPQ&s=10"
+             alt="Accessories"
+             width="150">
+    </div>
+    <div>
+        <h2>Tops & T-Shirts</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2g3q7ded1WEcqGDZAd56vPC8BnzAGDORUp1OyMChroQ&s=10"
+             alt="Tops and T-Shirts"
+             width="150">
+        <h2>Shoes</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBM433EiejFKVI4il72oQK8CNR8oY0dkpGZtBGJbPlVQ&s=10"
+             alt="Shoes"
+             width="150">
+    </div>
+</div>
+    <h2>About Us</h2>
+    <p>
+        Phone: +91 98765 43210<br>
+       Email: <a href="mailto:swesfashion@gmail.com">swesfashion@gmail.com</a><br>
+        Address: Coimbatore, Tamil Nadu
+    </p>
+
+    <div style="text-align:center;">
+    <h3><b>
+        Thank You for Visiting Swe's Fashion Boutique!
+    </b>
+    </h3>
+    </div>
+</body>
+</html>
